@@ -1,4 +1,4 @@
-# RAFT Training Data Generator
+# LLM Dataset Generator (RAFT methodology)
 ## Link: https://llm-dataset-generator-raft.streamlit.app/
 Generate training data for Retrieval Augmented Fine-Tuning (RAFT) from PDF documents using Streamlit and OpenAI's GPT models.
 
